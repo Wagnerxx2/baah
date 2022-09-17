@@ -6,3 +6,5 @@ function dsds(jogo, email)
 
 
 qweqe
+function mostranome(fogo)
+return goiaba
